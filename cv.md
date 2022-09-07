@@ -28,3 +28,13 @@ function findShort(s){
   return min.length;
 }
 ```
+## Experience
+Here's my educational project, which I created using JS, HTML and CSS:
+[calculator](https://jerniimy.github.io/calculator/)
+## Education
+Courses on _Hexlet:_ 'Basics of modern layout', 'CSS: Positioning Elements', 'CSS: Flex Basics', 'JavaScript Basics', 'Command line basics', 'CSS: Site adaptability' and 'Introduction to Git';
+## English
+B2 - C1
+
+
+I used to travel a lot and practice speaking English; today, at work, I write texts in English at work.
