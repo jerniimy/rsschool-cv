@@ -38,4 +38,4 @@ Courses on _Hexlet:_ 'Basics of modern layout', 'CSS: Positioning Elements', 'CS
 B2 - C1
 
 
-I used to travel a lot and practice speaking English; today, at work, I write texts in English at work.
+I used to travel a lot and practice speaking English; today, at work, I write texts in English.
